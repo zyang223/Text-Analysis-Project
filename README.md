@@ -19,7 +19,6 @@ The result of part 2 shows that in all 24 reviews, we have found a total of 1705
 ![chatgpt](images/assistance%20by%20chatgpt.png)
 
 
-!C:\Users\Student\Documents\GitHub\Text-Analysis-Project\images\assistance by chatgpt.png
 
 
  **4. Part III: Advanced Texture Analysis** 
@@ -34,7 +33,7 @@ Lastly, I have done text clustering for all 24 of the reviews by plotting all of
 ![textclustering](images/text_clustering.png)
 
 
- **5. Part Iv: Reflection** 
+ **5. Part IV: Reflection** 
 
  In conclusion, the process of doing the texture analysis went smoothly. The topic I picked did have some limitations because the api from Cinemagoer could not capture all of the reviews from IMDB, which limit the sample size of the texture analysis. However, from my perspective, I still have a strong interest in doing the texture analysis of movie reviews. Analyzing the similarity between different people’s opinions is a hard job and the result of my project has proven the fact. The second primary goal of my project is to capture the key words from randomly selected reviews on IMDB. If the api could capture all of the reviews from the IMDB website, the first goal would be able to be achieved. The secondary goal is to do the natural language processing and analyze the similarity and clustering. Although the result of the clustering showed there were non-significant relationships among reviews, I guess if I had enough sample size there would be some potential relationship among them.
 
